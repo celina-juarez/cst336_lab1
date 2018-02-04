@@ -55,6 +55,7 @@ in html
                 <p> I am a student at California State University, Monterey Bay.</p>
                 <p> I am majoring in Computer Science with an emphasis in Software Engineering.</p>
                 <p> Feel free to contact me!</p>
+                <br/><br/>
                 <em> "Put your heart, mind, and soul into even your smallest acts. This is the secret of success."</em><br />
                 - Swami Sivananda
             </div>

@@ -14,24 +14,21 @@ nav a {
     text-decoration: none;
     color: white;
 }
-
 nav a:hover {
     border-bottom: 2px white solid;
     font-size: 2em;
     transition: .9s;
 }
 #me, #welcomeText {
-    float: right;
-    
+    float: left;
+    width:30%;
+
 }
 #me img{
-    width:25%;
-    float: left;
+    width:55%;
 }
 
-
 footer {
-    clear: left;
     font-size:1em;
     color:white;
     float: left;
